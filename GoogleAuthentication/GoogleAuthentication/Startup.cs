@@ -35,8 +35,8 @@ namespace GoogleAuthentication
                 .AddGoogle(options =>
                 {
 
-                    options.ClientId = "560695623845-l2j20n8u2h4gmibh31ef31gohmlfuccj.apps.googleusercontent.com";
-                    options.ClientSecret = "GMTRCZqyvLe_GA8v-hBbkCdB";
+                    options.ClientId = "";
+                    options.ClientSecret = "";
                 });
 
 
